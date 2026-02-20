@@ -1,10 +1,10 @@
 # Hi, I'm Alex 👋
 
-**Senior Vibe Coder · Building at Network School · Former Federal Engineer**
+**Senior Vibe Coder · Building in Public at Network School · Former Federal Employee**
 
-🌍 Kuala Lumpur, Malaysia &nbsp;·&nbsp; he/him
+🌍 Forest City, Malaysia &nbsp;·&nbsp; he/him
 
-> Shipping AI tools daily with Claude Code. Went from federal government engineer to full-time builder in public. Currently at Network School, KL — coding something new every week.
+> Shipping projects and exploring AI tools daily. Went from federal government engineer to full-time builder in public. Currently at Network School, Singapore — coding something new every week.
 
 ---
 
@@ -36,14 +36,20 @@
 
 ## Come Build With Me at Network School
 
-Network School is a 12-month residential program for builders in Kuala Lumpur. $1,500/mo — housing, co-working, and a community of people actually shipping things.
+Network School is a residential program for builders across the bay from Singapore. The $1,500/mo fee covers everything — housing, 3 full meals designed by Brian Johnson, co-working space, daily workshops from many experts, a simcard, and a community of people actually shipping things living ina tropical vacation hotel 🤣.
 
 **I'm making it cheaper for whoever uses my referral:**
-- 1 week free at signup (~$375 off)
-- **+$500 Venmo from me personally when you arrive**
+- 1 week free at signup when you use ANY referral link
+- **+$500 Venmo from me personally when you use mine!**
 - Effective first month: **~$625** (less than half price)
 
 👉 **[ns.com/acoffman/invite](https://ns.com/acoffman/invite)**
+
+---
+
+## If you're impressed with what I'm doing know that you can too!
+
+I was a Federal Employee living in Los Angeles, California this time last year and over the course of 2 weeks I got up to speed with all things AI and learned the tools available in the market today. Started shipping code daily (check my commits!) and learning at a speed I haven't done since the days of the 😷 (at School)
 
 ---
 

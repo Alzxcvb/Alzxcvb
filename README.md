@@ -22,8 +22,8 @@
 
 - 🤖 **[openclaw-telegram-bot](https://github.com/Alzxcvb/openclaw-telegram-bot)** — AI Telegram assistant running Gemini 2.0 Flash + Perplexity Sonar Pro for real-time web search. Deployed on Railway.
 - 🔀 **[ai-model-router](https://github.com/Alzxcvb/ai-model-router)** — Intelligent routing layer that dispatches prompts to the optimal LLM by task type, cost, and latency.
-- 📊 **[desirability-dashboard](https://github.com/Alzxcvb/desirability-dashboard)** — Analytics dashboard for tracking product-market fit signals and user sentiment.
-- ✍️ **[thoughtleader-bot](https://github.com/Alzxcvb/thoughtleader)** — Automated AI content engine for generating high-signal LinkedIn posts from research.
+- 📊 **desirability-dashboard** — Analytics dashboard for tracking product-market fit signals and user sentiment.
+- ✍️ **thoughtleader-bot** — Automated AI content engine for generating high-signal LinkedIn posts from research.
 
 ---
 

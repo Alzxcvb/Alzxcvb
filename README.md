@@ -20,10 +20,12 @@
 
 ## Current Projects
 
-- 🤖 **[openclaw-telegram-bot](https://github.com/Alzxcvb/openclaw-telegram-bot)** — AI Telegram assistant running Gemini 2.0 Flash + Perplexity Sonar Pro for real-time web search. Deployed on Railway.
-- 🔀 **[ai-model-router](https://github.com/Alzxcvb/ai-model-router)** — Intelligent routing layer that dispatches prompts to the optimal LLM by task type, cost, and latency.
-- 📊 **desirability-dashboard** — Analytics dashboard for tracking product-market fit signals and user sentiment.
-- ✍️ **thoughtleader-bot** — Automated AI content engine for generating high-signal LinkedIn posts from research.
+- 🦠 **[hanta2026](https://github.com/Alzxcvb/hanta2026)** — Independent live tracker for the 2026 hantavirus cluster, modeled after ncov2019.live. Single static page, no frameworks. **Live at [hanta2026.org](https://hanta2026.org)**.
+- 🌍 **[world3-dashboard](https://github.com/Alzxcvb/world3-dashboard)** — Runs the *Limits to Growth* World3 model against real-world data and scores how well the 1972 projections held up. **Live at [world3-dashboard.vercel.app](https://world3-dashboard.vercel.app)**.
+- ✈️ **[mdac-better](https://github.com/Alzxcvb/mdac-better)** — A cleaner UX for Malaysia's Digital Arrival Card — PWA, saved profiles, QR code. **Live at [mdac-better.vercel.app](https://mdac-better.vercel.app)**.
+- 🤖 **[command](https://github.com/Alzxcvb/command)** — Multi-model agent orchestration that routes prompts to the optimal LLM by task type, cost, and latency.
+- 📚 **[polycrisis-research](https://github.com/Alzxcvb/polycrisis-research)** — Original bibliometric research mapping the polycrisis and Limits-to-Growth literature (3,600+ papers).
+- 💼 **[hi-im-alex](https://github.com/Alzxcvb/hi-im-alex)** — My Claude Code consulting practice for investment firms. **Live at [hiimalex.ai](https://hiimalex.ai)**.
 
 ---
 
@@ -36,7 +38,7 @@
 
 ## Come Build With Me at Network School
 
-Network School is a residential program for builders across the bay from Singapore. The $1,500/mo fee covers everything — housing, 3 full meals designed by Brian Johnson, co-working space, daily workshops from many experts, a simcard, and a community of people actually shipping things living ina tropical vacation hotel 🤣.
+Network School is a residential program for builders across the bay from Singapore. The $1,500/mo fee covers everything — housing, 3 full meals designed by Brian Johnson, co-working space, daily workshops from many experts, a simcard, and a community of people actually shipping things living in a tropical vacation hotel 🤣.
 
 **I'm making it cheaper for whoever uses my referral:**
 - 1 week free at signup when you use ANY referral link
